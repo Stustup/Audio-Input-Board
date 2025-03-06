@@ -30,3 +30,7 @@ The switched contacts of the 3.5mm jack are broken out, too.
 - Maybe adding a 4.4mm Pentaconn Jack. These get more and more common on balanced audio amplifiers.
 - Improve the marking on the pins to not always having to reference this site... 
 - Add outputs too. E.G. a 6.3mm Jack.
+
+## Notes
+
+The 3D models of the connectors are not in this repository, you can grab these on GrabCAD.  
