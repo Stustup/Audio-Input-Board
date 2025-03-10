@@ -1,0 +1,16 @@
+Reference,Value,Datasheet,Footprint,Qty,DNP,Mouser Link,Reichelt Nr.,Reichelt Link,Mouser Nr.
+"J1,J12",XLR-In1 L,https://www.neutrik.com/en/product/nc3fah1,Connector_Audio:Jack_XLR_Neutrik_NC3FAH1_Horizontal,2,,https://www.mouser.de/ProductDetail/Neutrik/NC3FAH1?qs=jCymNF74TgUeDVE6PPGqug%3D%3D,,, 568-NC3FAH1 
+"J2,J13",XLR-In1 R,https://www.neutrik.com/en/product/nc3fah1,Connector_Audio:Jack_XLR_Neutrik_NC3FAH1_Horizontal,2,,https://www.mouser.de/ProductDetail/Neutrik/NC3FAH1?qs=jCymNF74TgUeDVE6PPGqug%3D%3D,,, 568-NC3FAH1 
+"J3,J8,J14,J19,J24,J29,J34",+,~,Connector_Pin:Pin_D1.3mm_L11.0mm,7,,,,,
+"J4,J9,J15,J20,J25,J30,J35",-,~,Connector_Pin:Pin_D1.3mm_L11.0mm,7,,,,,
+"J5,J10,J16,J21,J26,J31,J36",GND,~,Connector_Pin:Pin_D1.3mm_L11.0mm,7,,,,,
+"J6,J17",XLR1_L,~,Connector_JST:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical,2,,, JST EH3P ST,,
+"J7,J18",XLR1,~,Connector_JST:JST_EH_B5B-EH-A_1x05_P2.50mm_Vertical,2,,,JST EH5P ST,,
+"J11,J22",XLR1_R,~,Connector_JST:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical,2,,, JST EH3P ST,,
+"J23,J28",Chinch-In1,https://www.mouser.de/datasheet/2/209/KC_2032021_1-2580140.pdf,_lib:CBP 2,2,,https://www.mouser.de/ProductDetail/Kobiconn/156-4219-E?qs=DPoM0jnrROUdVj8su1y9tg%3D%3D,,, 156-4219-E 
+"J27,J32",Chinch1,~,Connector_JST:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical,2,,, JST EH3P ST,,
+J33,3.5mm,~,Connector_Audio:Jack_3.5mm_Ledino_KB3SPRS_Horizontal,1,,,EBS 35,https://www.reichelt.de/de/de/shop/produkt/klinkeneinbaubuchse_3_5_mm_stereo-7301,
+J37,+_sw,~,Connector_Pin:Pin_D1.3mm_L11.0mm,1,,,,,
+J38,-_sw,~,Connector_Pin:Pin_D1.3mm_L11.0mm,1,,,,,
+J39,Conn_01x05_Socket,~,Connector_JST:JST_EH_B5B-EH-A_1x05_P2.50mm_Vertical,1,,,JST EH5P ST,,
+J40,Conn_01x03_Socket,~,Connector_JST:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical,1,,, JST EH3P ST,,
