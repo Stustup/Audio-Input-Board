@@ -34,5 +34,3 @@ The switched contacts of the 3.5mm jack are broken out, too.
 ## Notes
 
 The 3D models of the connectors are not in this repository, you can grab these on GrabCAD.  
-
-test
