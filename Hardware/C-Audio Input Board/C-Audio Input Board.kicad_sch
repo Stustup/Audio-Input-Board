@@ -452,7 +452,7 @@
 			)
 		)
 		(instances
-			(project "C-Audio Input-Board (CIB)"
+			(project "C-Audio Input Board"
 				(path "/b5cfd55f-d63e-4140-a74b-70044b12fe2d"
 					(page "5")
 				)
@@ -494,7 +494,7 @@
 			)
 		)
 		(instances
-			(project "C-Audio Input-Board (CIB)"
+			(project "C-Audio Input Board"
 				(path "/b5cfd55f-d63e-4140-a74b-70044b12fe2d"
 					(page "6")
 				)
@@ -537,7 +537,7 @@
 			)
 		)
 		(instances
-			(project "C-Audio Input-Board (CIB)"
+			(project "C-Audio Input Board"
 				(path "/b5cfd55f-d63e-4140-a74b-70044b12fe2d"
 					(page "2")
 				)
@@ -580,7 +580,7 @@
 			)
 		)
 		(instances
-			(project "C-Audio Input-Board (CIB)"
+			(project "C-Audio Input Board"
 				(path "/b5cfd55f-d63e-4140-a74b-70044b12fe2d"
 					(page "3")
 				)
@@ -623,7 +623,7 @@
 			)
 		)
 		(instances
-			(project "C-Audio Input-Board (CIB)"
+			(project "C-Audio Input Board"
 				(path "/b5cfd55f-d63e-4140-a74b-70044b12fe2d"
 					(page "4")
 				)

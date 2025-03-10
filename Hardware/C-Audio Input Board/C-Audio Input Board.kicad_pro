@@ -562,14 +562,62 @@
           "label": "DNP",
           "name": "${DNP}",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mouser-Link",
+          "name": "Mouser-Link",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Reichelt-Link",
+          "name": "Reichelt-Link",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Beschreibung",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mouser Link",
+          "name": "Mouser Link",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Reichelt Nr.",
+          "name": "Reichelt Nr.",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Reichelt Link",
+          "name": "Reichelt Link",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mouser Nr.",
+          "name": "Mouser Nr.",
+          "show": true
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": false,
-      "name": "Grouped By Value",
+      "name": "",
       "sort_asc": true,
-      "sort_field": "Referenz"
+      "sort_field": "Reference"
     },
     "connection_grid_size": 50.0,
     "drawing": {

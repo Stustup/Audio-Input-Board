@@ -1615,6 +1615,14 @@
 				(hide yes)
 			)
 		)
+		(property "Reichelt Nr." "JST EH5P ST"
+			(at 116.205 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "229ebcfc-7011-48c6-b2d3-b4d7b9a283d4")
 		)
@@ -1842,6 +1850,42 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Nr." ""
+			(at 74.93 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Link" ""
+			(at 74.93 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt Nr." "EBS 35"
+			(at 74.93 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt Link" "https://www.reichelt.de/de/de/shop/produkt/klinkeneinbaubuchse_3_5_mm_stereo-7301"
+			(at 74.93 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "S"
 			(uuid "a4a86c68-7c7e-42e7-90e1-718395c2746f")
 		)
@@ -1986,6 +2030,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Reichelt Nr." " JST EH3P ST"
+			(at 116.205 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"

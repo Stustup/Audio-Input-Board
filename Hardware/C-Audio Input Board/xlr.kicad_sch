@@ -1911,6 +1911,14 @@
 				(hide yes)
 			)
 		)
+		(property "Reichelt Nr." "JST EH5P ST"
+			(at 128.905 61.595 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a9c88afc-2ff9-4202-b9fa-325c03600f39")
 		)
@@ -2714,6 +2722,30 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser-Link" "https://www.mouser.de/ProductDetail/Neutrik/NC3FAH1?qs=jCymNF74TgUeDVE6PPGqug%3D%3D"
+			(at 81.28 48.895 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Link" "https://www.mouser.de/ProductDetail/Neutrik/NC3FAH1?qs=jCymNF74TgUeDVE6PPGqug%3D%3D"
+			(at 81.28 48.895 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Nr." " 568-NC3FAH1 "
+			(at 81.28 48.895 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e4ece923-d1bf-4245-b69c-2ddb4b8b83fc")
 		)
@@ -2860,6 +2892,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Reichelt Nr." " JST EH3P ST"
+			(at 128.905 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -3238,6 +3278,30 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser-Link" "https://www.mouser.de/ProductDetail/Neutrik/NC3FAH1?qs=jCymNF74TgUeDVE6PPGqug%3D%3D"
+			(at 81.28 69.215 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Link" "https://www.mouser.de/ProductDetail/Neutrik/NC3FAH1?qs=jCymNF74TgUeDVE6PPGqug%3D%3D"
+			(at 81.28 69.215 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Nr." " 568-NC3FAH1 "
+			(at 81.28 69.215 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b35ac29e-d5ee-4ad9-a9d7-717441d34128")
 		)
@@ -3313,6 +3377,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Reichelt Nr." " JST EH3P ST"
+			(at 128.905 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
