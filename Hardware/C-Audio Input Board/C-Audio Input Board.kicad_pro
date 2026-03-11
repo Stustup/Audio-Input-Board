@@ -108,6 +108,7 @@
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
         "text_height": "warning",
+        "text_on_edge_cuts": "error",
         "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
@@ -445,7 +446,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
@@ -455,6 +456,7 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -779,6 +781,10 @@
     [
       "09773922-6ac7-4562-bd48-b5a4a62add38",
       "3.5mm"
+    ],
+    [
+      "d67ae9f0-3e64-4425-9ead-30e740a09e4a",
+      "Pentaconn"
     ]
   ],
   "text_variables": {}

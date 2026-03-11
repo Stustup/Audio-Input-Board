@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Logos")(type "KiCad")(uri "/home/nielscron/Dokumente/DIY/KiCAD Libraries/Logos")(options "")(descr ""))
+  (lib (name "Connectors Audio Chinch")(type "KiCad")(uri "/home/nielscron/Dokumente/DIY/KiCAD Libraries/Connectors Audio Chinch.pretty")(options "")(descr ""))
+)

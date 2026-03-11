@@ -417,7 +417,7 @@
 		)
 	)
 	(sheet
-		(at 41.275 76.835)
+		(at 40.64 76.835)
 		(size 24.765 8.89)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -433,7 +433,7 @@
 		)
 		(uuid "07aad525-2bf3-49a8-9db6-6520fb481189")
 		(property "Sheetname" "Chinch2"
-			(at 41.275 76.1234 0)
+			(at 40.64 76.1234 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -442,7 +442,7 @@
 			)
 		)
 		(property "Sheetfile" "chinch.kicad_sch"
-			(at 41.275 86.3096 0)
+			(at 40.64 86.3096 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -460,7 +460,7 @@
 		)
 	)
 	(sheet
-		(at 41.275 90.805)
+		(at 40.64 90.805)
 		(size 24.765 8.89)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -476,7 +476,7 @@
 		)
 		(uuid "09773922-6ac7-4562-bd48-b5a4a62add38")
 		(property "Sheetname" "3.5mm"
-			(at 41.275 90.0934 0)
+			(at 40.64 90.0934 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -485,7 +485,7 @@
 			)
 		)
 		(property "Sheetfile" "3,5mm.kicad_sch"
-			(at 41.275 100.2796 0)
+			(at 40.64 100.2796 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -502,7 +502,7 @@
 		)
 	)
 	(sheet
-		(at 41.275 35.56)
+		(at 40.64 35.56)
 		(size 24.765 8.89)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -518,7 +518,7 @@
 		)
 		(uuid "507b4c62-d74e-49b5-8e54-d57b18c0f798")
 		(property "Sheetname" "XLR1"
-			(at 41.275 34.8484 0)
+			(at 40.64 34.8484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -527,7 +527,7 @@
 			)
 		)
 		(property "Sheetfile" "xlr.kicad_sch"
-			(at 41.275 45.0346 0)
+			(at 40.64 45.0346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -545,7 +545,7 @@
 		)
 	)
 	(sheet
-		(at 41.275 49.53)
+		(at 40.64 49.53)
 		(size 24.765 8.89)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -561,7 +561,7 @@
 		)
 		(uuid "a8b3f8f0-5151-40bb-b7a8-ace531ba1004")
 		(property "Sheetname" "XLR2"
-			(at 41.275 48.8184 0)
+			(at 40.64 48.8184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -570,7 +570,7 @@
 			)
 		)
 		(property "Sheetfile" "xlr.kicad_sch"
-			(at 41.275 59.0046 0)
+			(at 40.64 59.0046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -588,7 +588,49 @@
 		)
 	)
 	(sheet
-		(at 41.275 63.5)
+		(at 40.64 105.41)
+		(size 24.765 8.89)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d67ae9f0-3e64-4425-9ead-30e740a09e4a")
+		(property "Sheetname" "Pentaconn"
+			(at 40.64 104.6984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pentaconn.kicad_sch"
+			(at 40.64 114.8846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "C-Audio Input Board"
+				(path "/b5cfd55f-d63e-4140-a74b-70044b12fe2d"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 40.64 63.5)
 		(size 24.765 8.89)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -604,7 +646,7 @@
 		)
 		(uuid "e5c968e9-fbe1-4060-8b5f-6acd214be6e4")
 		(property "Sheetname" "Chinch1"
-			(at 41.275 62.7884 0)
+			(at 40.64 62.7884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -613,7 +655,7 @@
 			)
 		)
 		(property "Sheetfile" "chinch.kicad_sch"
-			(at 41.275 72.9746 0)
+			(at 40.64 72.9746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
