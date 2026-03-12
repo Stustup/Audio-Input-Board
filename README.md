@@ -1,14 +1,14 @@
 # Audio Input Board
 
-A simple input board to interface multiple connectors with DIY projects. I use it mainly as connector boards for prototype tube amps, which are wired point to point. Adding flimsy cables with connectors solderes to them was and would be tedious. 
-Also this makes it possible to securely attach oscilloscope probes on the solder holes.
+A simple input board to interface multiple connectors with DIY projects. I use it mainly as connector boards for prototyping tube amps, which are wired point to point. Adding flimsy cables with connectors soldered to them was and would be tedious. 
+Also this makes it possible to securely attach oscilloscope probes on the test holes.
 
 ![3D Model of Input Board](./Docs/CIB%20Front.png)
 
 ## Connectors on the board are:
 1. 3.5mm Stereo Jack
 2. 2 Stereo Chinch/RCA connectors (for input/output)
-3. 1 4.4mm Pentaconn balanced connector, because i like it and want to push it.
+3. 4.4mm Differential Pentaconn connector, because i like it and want to push it.
 3. 4 Mono Differential XLR connectors (for input/output). One could use each of these as a single stereo Jack 
 
 To interface these connectors to your DIY project you need a few JST_EH P2.50mm connectors and cables, which are the (it looks like to me) standard for cheap knock off DIY connectors in sets on eBay. 
