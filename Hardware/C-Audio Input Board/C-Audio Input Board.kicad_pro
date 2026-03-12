@@ -503,7 +503,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "Gerbers/",
+      "plot": "../../Production/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "../../CAD/C-Audio Input Board 3D Model.step",
